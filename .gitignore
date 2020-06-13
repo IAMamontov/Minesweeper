@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Problems/Counting/out/
+/Problems/Counting/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/The sum of N numbers/out/
+/Problems/The sum of N numbers/out/production/classes/
